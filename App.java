@@ -22,4 +22,12 @@ public class App {
         System.out.println(novoCarro.getAno());
     }
 
+    /**FORMAS DE ESCREVER
+     * 
+     * camelCase: variaveis, atributos, getters e setters e metodos
+     * PascalCase: Nomes de arquivos, classes e construtores
+     * kibab-case: nota-fiscal
+     * snake_case: Constantes
+     * 
+     */
 }
